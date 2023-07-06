@@ -1,2 +1,2 @@
 Supplimentary readme
-Update
+README update from github.com
